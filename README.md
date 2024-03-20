@@ -33,7 +33,4 @@ Simon is a memory game where the player must repeat a sequence of colors and sou
 - The Simon game concept was originally created by Ralph H. Baer and Howard J. Morrison.
 - Sounds used in this game are from [Freesound](https://freesound.org/) under Creative Commons licenses.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
